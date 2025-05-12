@@ -4,6 +4,7 @@
 - 🔧 Always up for learning new tech and improving my problem-solving skills.
 - 💬 Let’s connect, code, and create something amazing together!
 
+- 🖥️ Portfolio : https://pallavizade-portfolio.vercel.app/
 
 <!---
 zadePall01/zadePall01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
